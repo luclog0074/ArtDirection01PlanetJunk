@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: example
-  m_Shader: {fileID: -6465566751694194690, guid: 5db2656e5eb24274bac092cc97fc5138, type: 3}
+  m_Name: Waves
+  m_Shader: {fileID: -6465566751694194690, guid: 28efeddf531874744aa6086612d65512, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,14 +19,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_233ecd11738c45cb99eddc0645e183f3:
-        m_Texture: {fileID: 2800000, guid: ee5511b6adfdb8f4cb64f31cf0133411, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_e2299db97ed9464582b9a5ceb0db7620:
-        m_Texture: {fileID: 2800000, guid: d118e088599d87c4d94756c4d8fa644b, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -84,8 +76,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_9dc5a385639d41f4b8fbd8df565d6f93: 0
-    - Vector1_ccdf5c646ae247219d814ccf84bd1770: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -118,7 +108,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &3070427001022265455
+--- !u!114 &3822212921936890503
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
