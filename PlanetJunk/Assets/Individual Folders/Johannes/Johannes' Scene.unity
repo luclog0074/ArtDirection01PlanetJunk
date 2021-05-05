@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17913169, g: 0.22429888, b: 0.30607316, a: 1}
+  m_IndirectSpecularColor: {r: 0.18302886, g: 0.2287108, b: 0.30675337, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4439,6 +4439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallHouse01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7753189785388272734, guid: 943677e61bc84ef488461ae91f8138de, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1bb8790f7a21cd244bb2eab934e0cd07, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 943677e61bc84ef488461ae91f8138de, type: 3}
 --- !u!4 &149796919 stripped
@@ -27069,6 +27073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallHouse01
       objectReference: {fileID: 0}
+    - target: {fileID: 7753189785388272734, guid: 943677e61bc84ef488461ae91f8138de, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1bb8790f7a21cd244bb2eab934e0cd07, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 943677e61bc84ef488461ae91f8138de, type: 3}
 --- !u!1001 &980836039
